@@ -138,4 +138,4 @@ Assuming you have all the requirements installed, you can setup and run the proj
 This project is released under the [MIT License](LICENSE).
 
 ## About us
-### Auther @ MATHAN _ J
+- `seek up @mathan`
